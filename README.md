@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy Carlos
 
-<!--
-**carlosseverino/carlosseverino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Informático · Desarrollador Fullstack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mí
+
+Ingeniero informático con más de **10 años de experiencia**, actualmente desarrollador fullstack. Me enfoco en arquitecturas de servicios, calidad de código y sistemas de alto impacto.
+
+Me interesa la automatización, el data mining y adoptar nuevas tecnologías.
+
+---
+
+### Stack
+
+| | |
+| :--- | :--- |
+| **Lenguajes** | TypeScript · JavaScript · Python |
+| **Frontend** | React · Angular · Vue.js · Nuxt.js |
+| **Backend** | Node.js · Express · NestJS · Flask · FastAPI |
+| **Datos** | PostgreSQL · MySQL · MongoDB · Redis |
+| **Cloud** | Google Cloud Platform |
+
+---
+
+### Contacto
+
+[Email](mailto:leyton.severino@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carloseverino)
